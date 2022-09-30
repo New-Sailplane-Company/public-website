@@ -1,6 +1,7 @@
 ---
 label: Home2
 hide_body: true
+display_field: welcome_to_the_new_sailplane_company
 fields:
 - name: welcome_to_the_new_sailplane_company
   type: text
