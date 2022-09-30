@@ -6,11 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: src/content
-  label: Home2
+  label: Home
   create: documents
   match: "**/*"
-- type: heading
-  label: Home
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
