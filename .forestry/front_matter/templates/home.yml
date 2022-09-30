@@ -1,0 +1,10 @@
+---
+label: Home
+hide_body: true
+fields:
+- name: welcome_to_the_new_sailplane_company
+  type: text
+  config:
+    required: false
+  label: Welcome to the New Sailplane Company
+  description: test2
