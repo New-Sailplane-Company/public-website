@@ -9,3 +9,5 @@ fields:
     required: false
   label: Welcome to the New Sailplane Company
   description: test2
+pages:
+- src/content/tst.md
